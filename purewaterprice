@@ -1,0 +1,8 @@
+n = int(input("Please include the amount of water to be gotten: "))
+one_bag = 50
+price = n * one_bag
+
+m = int(input("Amount to be paid? "))
+change = m - price 
+print("It will cost you ", price)
+print("Transaction successful, you have a balamnce of ", change)
