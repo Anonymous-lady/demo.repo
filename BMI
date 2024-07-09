@@ -1,0 +1,4 @@
+mass = int(input("What is your body mass: "))
+height = int(input("What is your height: "))
+bmi = mass / (height ** 2)
+print(f"{bmi: .3f}")
