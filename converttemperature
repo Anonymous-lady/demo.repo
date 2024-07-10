@@ -10,3 +10,6 @@ elif temp == "C":
     print(f"{Fahr_temp: .2f}")
 else:
     print("Wrong input.")
+
+    print("Wrong input.")
+

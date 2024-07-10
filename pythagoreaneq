@@ -1,0 +1,7 @@
+import math
+
+a= int(input("What is the length of the shorter side: "))
+b = int(input("What is the length of the short side: "))
+c_square = (a ** 2) + (b ** 2)
+
+print(math.sqrt(c_square))
