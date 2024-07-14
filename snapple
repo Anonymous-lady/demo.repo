@@ -1,0 +1,15 @@
+import random
+num = random.randint(0, 5)
+
+if num == 0:
+  print(f"{num}: Flamingos turn pink from eating shrimp.")
+elif num == 1:
+  print(f"{num}:The only food that doesn't spoil is honey.")
+elif num == 2:
+  print(f"{num}:Shrimp can only swim backwards.")
+elif num == 3:
+  print(f"{num}:A taste bud's life span is about 10 days.")
+elif num == 4:
+  print(f"{num}:It is impossible to sneeze while sleeping.")
+else:
+  print(f"{num}:It is illegal to sing off-key in North Carolina.")
