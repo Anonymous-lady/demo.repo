@@ -28,3 +28,6 @@ def main():
     cents = get_cents()
     cal_coins(cents)
 
+if _name_ == "_main_":
+  main()
+
