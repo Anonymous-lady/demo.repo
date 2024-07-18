@@ -1,0 +1,8 @@
+import math
+
+threenumbers = int(input("Input three different numbers: "))
+choose = int(input("Input 1 for mean, 2 for median, 3 for mode"))
+
+x, y, z = threenumbers.split()
+if choose == 1:
+  
