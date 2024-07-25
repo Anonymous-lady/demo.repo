@@ -1,0 +1,5 @@
+huddersfield = '56.54" N', '2.98" W'
+lagos = '14.65" N', '40.81" E'
+abeokuta = ' 20.56" N', ' 42.32" E'
+location = huddersfield + lagos + abeokuta
+print(location)

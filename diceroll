@@ -1,0 +1,11 @@
+import random
+dice1 = random.randint(1,6)
+dice2 = random.randint(1,6)
+total =dice1 + dice2
+guess = int(input("What is the total? "))
+if guess == total:
+  print("You got it")
+else:
+  while guess != total:
+    print("No, try again")
+    guess = int(input("What is the total? "))

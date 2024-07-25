@@ -1,0 +1,13 @@
+import math
+
+x = int(input("Input your first number: "))
+y = int(input("Input your second number: "))
+z = int(input("Input your last number: "))
+choose = int(input("Input 1 for mean, 2 for median, 3 for mode"))
+
+if choose == 1:
+  print(statistic.mean([x, y, z])
+elif choose == 2:
+    print(statistic.median([x, y, z])
+else:
+    print(statistic.mode([x, y, z])
