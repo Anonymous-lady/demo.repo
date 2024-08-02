@@ -2,3 +2,8 @@ My name is Esther Akinpelu Ololade, a young girl in her teens that finds so much
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Ololadethegreat/30-nites-of-code)  
   ![@Ololadethegreat #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Ololadethegreat)
+
+
+
+Check out my progress on roadmap.sh
+[![roadmap.sh](https://roadmap.sh/card/wide/66802b34fd6073669294c0f2?variant=dark)](https://roadmap.sh)
