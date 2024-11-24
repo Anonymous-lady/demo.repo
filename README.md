@@ -7,3 +7,6 @@ My name is Esther Akinpelu Ololade, a young girl in her teens that finds so much
 
 Check out my progress on roadmap.sh
 [![roadmap.sh](https://roadmap.sh/card/wide/66802b34fd6073669294c0f2?variant=dark)](https://roadmap.sh)
+
+
+https://github-profile-trophy.vercel.app/?username=Anonymous-lady&theme=discord
